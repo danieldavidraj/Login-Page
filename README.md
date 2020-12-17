@@ -5,5 +5,5 @@ Link to view the website:
 * Developer: Daniel Davidraj M
 * A simple and attractive login page which can be used for any website
 #
-![Login Page](/images/OutplacementHeroes.png)
+![Login Page](/images/Login Page.png)
 
